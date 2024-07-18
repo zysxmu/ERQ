@@ -1,6 +1,9 @@
 ## Towards Accurate Post-Training Quantization of Vision Transformers via Error Reduction (ERQ)
 
-Below are instructions for reproducing the classification results of ERQ.
+Below are instructions for reproducing the classification results of ERQ. Note that this paper is **extended** from our previous ICML2024 paper: 
+
+ERQ: Error Reduction for Post-Training Quantization of Vision Transformers (**spotlight**).
+
 
 ## Evaluation
 
@@ -39,7 +42,9 @@ Below are the part of classification results on ImageNet dataset.
 
 ## Citation
 
-This code and paper is extended from our previous ICML2024 paper: ERQ: Error Reduction for Post-Training Quantization of Vision Transformers (spotlight).
+This code and paper is **extended** from our previous ICML2024 paper: 
+
+ERQ: Error Reduction for Post-Training Quantization of Vision Transformers (**spotlight**).
 
 We highly appreciate it if you would please cite the following paper if our work is useful for your work:
 
