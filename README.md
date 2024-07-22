@@ -5,6 +5,9 @@ Below are instructions for reproducing the classification results of ERQ. Note t
 ERQ: Error Reduction for Post-Training Quantization of Vision Transformers (**spotlight**).
 
 
+Note that we also provide the instructions for reproducing the detection/SR results of ERQ in ERQ_detection.zip/ERQ_SR.zip
+
+
 ## Evaluation
 
 - First, create a fold for save the fp output:
