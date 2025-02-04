@@ -1,4 +1,4 @@
-## Towards Accurate Post-Training Quantization of Vision Transformers via Error Reduction (ERQ)
+## Towards Accurate Post-Training Quantization of Vision Transformers via Error Reduction (ERQ) TPAMI2025
 
 Below are instructions for reproducing the classification results of ERQ. Note that this paper is **extended** from our previous ICML2024 paper: 
 
