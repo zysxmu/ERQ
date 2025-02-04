@@ -45,11 +45,27 @@ Below are the part of classification results on ImageNet dataset.
 
 ## Citation
 
+```bash
+@ARTICLE{10839431,
+author={Zhong, Yunshan and Huang, You and Hu, Jiawei and Zhang, Yuxin and Ji, Rongrong},
+journal={ IEEE Transactions on Pattern Analysis \& Machine Intelligence (TPAMI)},
+title={Towards Accurate Post-Training Quantization of Vision Transformers via Error Reduction},
+year={2025},
+volume={},
+number={01},
+ISSN={1939-3539},
+pages={1-18},
+doi={10.1109/TPAMI.2025.3528042}
+}
+```
+
 This code and paper is **extended** from our previous ICML2024 paper: 
 
 ERQ: Error Reduction for Post-Training Quantization of Vision Transformers (**spotlight**).
 
 We highly appreciate it if you would please cite the following paper if our work is useful for your work:
+
+
 
 ```bash
 @inproceedings{zhongerq,
